@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Recife';
+    src: local('Recife Display Light'), local('Recife-Display-Light'),
+        url('RecifeDisplay-Light.woff2') format('woff2'),
+        url('RecifeDisplay-Light.woff') format('woff'),
+        url('RecifeDisplay-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+  }
